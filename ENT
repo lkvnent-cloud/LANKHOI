@@ -678,43 +678,43 @@ https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 group-title="PHÁO HOA TV", CONAN
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub1/index.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", COZAN
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTINF:-1 group-title="PHÁO HOA TV", KHÔ TÁO
+#EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub2/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", CACA
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub3/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", GÀ RỪNG
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub4/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", MÃ VĂN TÀI
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub5/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", TÂY MÔN KHÁNH
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub6/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", VĂN TÀI
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub7/index.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", TAM MAO
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTINF:-1 group-title="PHÁO HOA TV", KHÔ MAO
+#EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub8/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", KHÔ CAY
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub9/index.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", LEE SHIN
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTINF:-1 group-title="PHÁO HOA TV", XÔI XOÀI
+#EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub10/index.m3u8
 
