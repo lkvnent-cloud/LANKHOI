@@ -5,21 +5,34 @@ https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_56000
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
 #EXTINF:-1 group-title="LKVNENT" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", LVTV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31596/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| Real Madrid TV ES
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31847/index.m3u8
 #EXTINF:-1 group-title="LKVNENT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", SKYS
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 group-title="LKVNENT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png", Max Sport 2 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228726&extension=ts&play_token=1WFblY6SIm
 #EXTINF:-1 group-title="LKVNENT" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
-#EXTINF:-1 group-title="LKVNENT",| A SPORTV HD
-http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19069/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| LA LIGA ES
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31823/index.m3u8
 #EXTINF:-1 group-title="LKVNENT",| Arena Premium 1 FHD HR
 http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92238
 #EXTINF:-1 group-title="LKVNENT",| STRING SPORTTV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31563/index.m3u8
 #EXTINF:-1 group-title="LKVNENT",| SKY AU
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2492/index.m3u8
-
+#EXTINF:-1 group-title="LKVNENT",| Fast Sports FHD AM
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30199/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| Fast Sports 1 HD AM
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30200/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| Fast Sports 2 HD AM
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30201/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| DIGI Sport 2 HD RO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2522/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| DIGI Sport 1 HD RO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2523/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| DIGI Sport 3 HD RO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2524/index.m3u8
 #EXTINF:-1 group-title="LKVNENT",| DAZN 1 PT
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31954/index.m3u8
 #EXTINF:-1 group-title="LKVNENT",| DAZN 2 HD PT
@@ -150,9 +163,9 @@ https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV1 
 https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV2 
-https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
+https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV3
-https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8 
+https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 1 
 https://live.canthotv.vn/live/tv/playlist.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 2 
@@ -172,7 +185,7 @@ https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 1 
 https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 2 
-https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1368216734.m3u8 
+https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TÂY NINH TV 
 https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV1 
@@ -194,7 +207,7 @@ https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV THUẦN VIỆT
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV CA NHẠC
-https://liveh12byt.vtvprime.vn/hls/HTVCCANHAC/04.m3u8
+https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV PHIM
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV DU LỊCH CUỘC SỐNG
@@ -461,11 +474,11 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
 
 #EXTINF:-1 group-title="BASKETBALL", BLV COZY
-https://live05.meung.app/live/87379114.m3u8
+https://live05.miekgo.app/live/87379114.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV POCARI
-https://live05.meung.app/live/19919577.m3u8
+https://live05.miekgo.app/live/19919577.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV ROCKSTAR
-https://live05.meung.app/live/82054853.m3u8
+https://live05.miekgo.app/live/82054853.m3u8
 #EXTINF:-1 group-title="BASKETBALL", NBA TV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6491/index.m3u8
 #EXTINF:-1 group-title="BASKETBALL", | Sky Sport Basket
@@ -552,10 +565,12 @@ http://lordstreams.live:80/9857855271/8369553594/661346
 http://antman1.giize.com/live/valeri1./T9KJ65fzceats/109380.ts
 #EXTINF:-1 group-title="TENNIS", | Cosmote
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31584/index.m3u8
+#EXTINF:-1 group-title="TENNIS", | EURO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19116/index.m3u8
 #EXTINF:-1 group-title="TENNIS", | EURO1
-http://de.seetv.cc/play/5453/632F375BC8243BC/video.m3u8
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12047/index.m3u8
 #EXTINF:-1 group-title="TENNIS", | EURO2
-http://de.seetv.cc/play/5454/632F375BC8243BC/video.m3u8
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12048/index.m3u8
 #EXTINF:-1 group-title="TENNIS", | Arena Tenis HD RS
 http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/162185
 #EXTINF:-1 group-title="TENNIS", | Tennis TV Classic
@@ -680,43 +695,44 @@ https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c
 #EXTINF:-1 group-title="PHÁO HOA TV", CONAN
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livecdn.cdnfastter.xyz/live/livehub1/index.m3u8
+https://live.khoga.space/live/livehub1/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", KHÔ TÁO
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livecdn.cdnfastter.xyz/live/livehub2/index.m3u8
+https://live.khoga.space/live/livehub2/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", CACA
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livecdn.cdnfastter.xyz/live/livehub3/index.m3u8
+https://live.khoga.space/live/livehub3/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", GÀ RỪNG
+https://live.khoga.space/live/livehub4/index.m3u8
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livecdn.cdnfastter.xyz/live/livehub4/index.m3u8
+https://live.khoga.space/live/livehub4/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", MÃ VĂN TÀI
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livecdn.cdnfastter.xyz/live/livehub5/index.m3u8
+https://live.khoga.space/live/livehub5/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", TÂY MÔN KHÁNH
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livecdn.cdnfastter.xyz/live/livehub6/index.m3u8
+https://live.khoga.space/live/livehub6/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", VĂN TÀI
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livecdn.cdnfastter.xyz/live/livehub7/index.m3u8
+https://live.khoga.space/live/livehub7/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", KHÔ MAO
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livecdn.cdnfastter.xyz/live/livehub8/index.m3u8
+https://live.khoga.space/live/livehub8/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", KHÔ CAY
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livecdn.cdnfastter.xyz/live/livehub9/index.m3u8
+https://live.khoga.space/live/livehub9/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", XÔI XOÀI
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livecdn.cdnfastter.xyz/live/livehub10/index.m3u8
+https://live.khoga.space/live/livehub10/index.m3u8
 
 #EXTINF:-1 group-title="PHÁ LÀNG TV", RICKY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
@@ -774,6 +790,14 @@ https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", Chuối Sấy
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
 #EXTINF:-1 group-title="PHÁ LÀNG TV", Trốc Tru
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -781,67 +805,68 @@ https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 #EXTINF:-1 group-title="PHÁ LÀNG TV", A NGAO
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
 
 
 #EXTINF:-1 group-title="COLA TV", COCA
-https://live05.meung.app/live/24561735.m3u8 
+https://live05.miekgo.app/live/75748097_tsc.m3u8
+https://live05.miekgo.app/live/24561735.m3u8 
 #EXTINF:-1 group-title="COLA TV", COZY
-https://live05.meung.app/live/87379114.m3u8
+https://live05.miekgo.app/live/87379114.m3u8
 #EXTINF:-1 group-title="COLA TV", FANTA
-https://live05.meung.app/live/71426314.m3u8
+https://live05.miekgo.app/live/71426314.m3u8
 #EXTINF:-1 group-title="COLA TV", AQUA
-https://live05.meung.app/live/18812304.m3u8
+https://live05.miekgo.app/live/18812304.m3u8
 #EXTINF:-1 group-title="COLA TV", LAVIE
-https://live05.meung.app/live/90725470.m3u8
+https://live05.miekgo.app/live/90725470.m3u8
 #EXTINF:-1 group-title="COLA TV", MONSTER 
-https://live05.meung.app/live/75915087.m3u8 
+https://live05.miekgo.app/live/75915087.m3u8 
 #EXTINF:-1 group-title="COLA TV", MUONTAIN DEW 
-https://live05.meung.app/live/87547578.m3u8 
+https://live05.miekgo.app/live/87547578.m3u8 
 #EXTINF:-1 group-title="COLA TV", PEPSI
-https://live05.meung.app/live/43612277.m3u8
+https://live05.miekgo.app/live/43612277.m3u8
 #EXTINF:-1 group-title="COLA TV", REDBULL
-https://live05.meung.app/live/14830711.m3u8
+https://live05.miekgo.app/live/14830711.m3u8
 #EXTINF:-1 group-title="COLA TV", REVIVE
-https://live05.meung.app/live/33982309.m3u8
+https://live05.miekgo.app/live/33982309.m3u8
 #EXTINF:-1 group-title="COLA TV", ROCKSTAR
-https://live05.meung.app/live/82054853.m3u8
+https://live05.miekgo.app/live/82054853.m3u8
 #EXTINF:-1 group-title="COLA TV", POCARI 
-https://live05.meung.app/live/19919577.m3u8
+https://live05.miekgo.app/live/19919577.m3u8
 #EXTINF:-1 group-title="COLA TV", SAMURAI 
-https://live05.meung.app/live/07808742.m3u8
+https://live05.miekgo.app/live/07808742.m3u8
 #EXTINF:-1 group-title="COLA TV", SODA 
-https://live05.meung.app/live/02456966.m3u8
+https://live05.miekgo.app/live/02456966.m3u8
 #EXTINF:-1 group-title="COLA TV", SPRITE 
-https://live05.meung.app/live/75748097.m3u8
+https://live05.miekgo.app/live/75748097.m3u8
 #EXTINF:-1 group-title="COLA TV", STING 
-https://live05.meung.app/live/14707124.m3u8 
+https://live05.miekgo.app/live/14707124.m3u8 
 #EXTINF:-1 group-title="COLA TV", TEPPY 
-https://live05.meung.app/live/59444581.m3u8 
+https://live05.miekgo.app/live/59444581.m3u8 
 #EXTINF:-1 group-title="COLA TV", WARRIOR 
-https://live05.meung.app/live/97885009.m3u8 
+https://live05.miekgo.app/live/97885009.m3u8 
 #EXTINF:-1 group-title="COLA TV", 7 UP 
-https://live05.meung.app/live/78905744.m3u8 
+https://live05.miekgo.app/live/78905744.m3u8 
 #EXTINF:-1 group-title="COLA TV", 247
-https://live05.meung.app/live/90865415.m3u8 
+https://live05.miekgo.app/live/90865415.m3u8 
 #EXTINF:-1 group-title="COLA TV", BÍ ĐAO
-https://live05.meung.app/live/99121525.m3u8
+https://live05.miekgo.app/live/99121525.m3u8
 #EXTINF:-1 group-title="COLA TV", C2 
-https://live05.meung.app/live/08552895.m3u8 
+https://live05.miekgo.app/live/08552895.m3u8 
 #EXTINF:-1 group-title="COLA TV", CHANH MUỐI
-https://live05.meung.app/live/08552895.m3u8 
+https://live05.miekgo.app/live/08552895.m3u8 
 #EXTINF:-1 group-title="COLA TV", DR THANH 
-https://live05.meung.app/live/79665343.m3u8 
+https://live05.miekgo.app/live/79665343.m3u8 
 #EXTINF:-1 group-title="COLA TV", GIÀ LÀNG
-https://live05.meung.app/live/14830711.m3u8
+https://live05.miekgo.app/live/14830711.m3u8
 #EXTINF:-1 group-title="COLA TV", HỔ VẰN
-https://live05.meung.app/live/07428422.m3u8
+https://live05.miekgo.app/live/07428422.m3u8
 #EXTINF:-1 group-title="COLA TV", KHÔNG ĐỘ
-https://live05.meung.app/live/41943555.m3u8
+https://live05.miekgo.app/live/41943555.m3u8
 #EXTINF:-1 group-title="COLA TV", Ô LONG 
-https://live05.meung.app/live/97312754.m3u8 
+https://live05.miekgo.app/live/97312754.m3u8 
 #EXTINF:-1 group-title="COLA TV", RỒNG ĐỎ 
-https://live05.meung.app/live/88508431.m3u8 
+https://live05.miekgo.app/live/88508431.m3u8 
 
 #EXTINF:-1 group-title="SOCOLIVE", SCL TAP 
 https://live.inplyr.com/room/147801.m3u8
@@ -2794,5 +2819,3 @@ https://vip.opstream14.com/20220317/1346_346b32dc/3000k/hls/mixed.m3u8
 https://vip.opstream12.com/20220427/13118_83a2f827/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", GODS OF EGYPT:NCÁC VỊ THẦN AI CÂP
 https://vip.opstream14.com/20220319/1818_b4990ddb/3000k/hls/mixed.m3u8
-
-
