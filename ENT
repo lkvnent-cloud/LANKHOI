@@ -5,19 +5,23 @@ https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_56000
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
 #EXTINF:-1 group-title="LKVNENT" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", LVTV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31596/index.m3u8
-#EXTINF:-1 group-title="LKVNENT",| Real Madrid TV ES
+#EXTINF:-1 group-title="LKVNENT",| RMTV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31847/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| SPORTING TV
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2530/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| CCTV5+
+https://cdn.qd.je/163189/cctv5p
 #EXTINF:-1 group-title="LKVNENT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", SKYS
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 group-title="LKVNENT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png", Max Sport 2 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228726&extension=ts&play_token=1WFblY6SIm
 #EXTINF:-1 group-title="LKVNENT" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
-#EXTINF:-1 group-title="LKVNENT",| LA LIGA ES
+#EXTINF:-1 group-title="LKVNENT",| LA LIGA ESP
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31823/index.m3u8
 #EXTINF:-1 group-title="LKVNENT",| Arena Premium 1 FHD HR
 http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92238
-#EXTINF:-1 group-title="LKVNENT",| STRING SPORTTV
+#EXTINF:-1 group-title="LKVNENT",| STRINGSPORT TV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31563/index.m3u8
 #EXTINF:-1 group-title="LKVNENT",| SKY AU
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2492/index.m3u8
@@ -211,30 +215,38 @@ https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV PHIM
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV DU LỊCH CUỘC SỐNG
-https://liveh12byt.vtvprime.vn/hls/HTVCDLCS/03.m3u8
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV GIA ĐÌNH
-https://liveh34.vtvprime.vn/hls/HTVGIADINH/03.m3u8
+https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV PHỤ NỮ
-https://liveh34.vtvprime.vn/hls/HTVPHUNU/03.m3u8
+https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTVC+
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 1
 https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 2
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=255
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV1 
-http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8 
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV2
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/binh-thuan/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", KHÁNH HÒA TV HD
-https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", KHÁNH HÒA TV 1
-https://cdnbaokhanhhoa.com/live/90405a889081.m3u8?vhost=video
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=khanh-hoa
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐAK LAK 
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", GIA LAI TV 
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NGÃI TV1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=81
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NGÃI TV2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://tv.vietanhtv.top/vieon/vieon.php?id=kon-tum-1
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NGÃI TV2
 https://ace.hoiquan.click/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
@@ -243,15 +255,16 @@ https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV2 
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HUẾ TV 
-https://live.huetv.com.vn/TRT-Online/chunklist.m3u8  
+https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUÃNG TRỊ TV 
 https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HÀ TĨNH TV
-https://wse.hatinhtv.net/live/httv1/playlist.m3u8 
+https://wse.hatinhtv.net/radio/voht/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", NGHỆ AN TV 
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THANH HÓA TV
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=89
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", NINH BÌNH TV 
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG TV1
@@ -263,7 +276,7 @@ https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", BẮC NINH TV 
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/playlist.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NINH TV1 
-https://live.baoquangninh.vn/qtvlive/tv1live.m3u8 
+https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NINH TV3 
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HÀ NỘI TV1 
@@ -285,13 +298,17 @@ https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", SƠN LA TV 
 https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐIỆN BIÊN TV 
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=52
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", LAI CHÂU TV 
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=68
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HiTV
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vmttv.dpdns.org/tv360/?id=hitv
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", YouTV
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=31
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png", SCTV1
 https://vmttv.dpdns.org/VTVGo/?sctv1
@@ -2695,6 +2712,12 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2209/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/5068/index.m3u8
 #EXTINF:-1 group-title="AS | SPORTS HD", UA: Setanta Baltic
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/5069/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", TL: PPTV36
+http://3bb.engatetv.com:25461/hstn/line/21
+#EXTINF:-1 group-title="AS | SPORTS HD", TL: MONOMAX SPORT
+http://3bb.engatetv.com:25461/hstn/line/14
+#EXTINF:-1 group-title="AS | SPORTS HD", TL: Thairath TV 32
+http://3bb.engatetv.com:25461/hstn/line/17
 
 
 
@@ -2732,7 +2755,6 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19048/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19049/index.m3u8
 #EXTINF:-1 group-title="MOVIES", HBO Signature HD BR
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19050/index.m3u8http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19046/index.m3u8
-
 #EXTINF:-1 group-title="MOVIES", AXN White RO
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6950/index.m3u8
 #EXTINF:-1 group-title="MOVIES", AXN Black RO
@@ -2744,78 +2766,153 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6951/index.m3u8
 #EXTINF:-1 group-title="MOVIES", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 
-
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", TÀU BUÔN NGƯỜI
+https://v7.kkphimplayer7.com/20260820/Bg8E38Qv/index.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", SPIDERMAN: KHỞI ĐẦU MỚI
 https://www.1phim21.com/pmm2/a01ba3f249589bcbfdb7eed0dc236efb.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", BOSS LEVEL: TRÙM CUỐI SIÊU ĐẲNG
-https://s6.kkphimplayer6.com/20260414/g9mvc0DJ/index.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", PEAKY BLINDERS-THE IMMORTAL MAN: BÓNG MA ANH QUỐC-NGƯỜI BẤT TỬ
-https://s6.kkphimplayer6.com/20260328/imGFDttF/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", CRIME 101: TỘI PHẠM 101
-https://vip.opstream90.com/20260314/27098_cd043768/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", Shelter: KẺ ẨN DẬT
-https://vip.opstream90.com/20260225/25764_7bd89d30/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", Back to the Past: TẦM TẦN KÝ
-https://vip.opstream90.com/20260222/25568_07b6b142/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", Exit Protocol: THOÁT KHỎI GIAO THỨC
-https://vip.opstream90.com/20260218/25330_a320d0ae/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", Misdirection: BẪY NGẦM
-https://vip.opstream90.com/20260224/25750_d717e27d/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", GREENLAND: THẢM HỌA THIÊN THẠCH
-https://vip.opstream14.com/20220320/1900_bb756cdc/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", ANACONDA: ĐỤNG ĐỘ SIÊU TRĂN
-https://ccdn.hlstream.com/video/20260127LFi0KMCp/master.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", RIP: RANH GIỚI TỘI ÁC
-https://ccdn.hlstream.com/video/20260116ocSRkupw/master.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", FOG of WAR: SƯƠNG MÙ CHIẾN
-https://ccdn.hlstream.com/video/20250409Ah9qvvkC/master.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", VALIANT ONE: CHIẾN BINH QUẢ CẢM
-https://ccdn.hlstream.com/video/20250304N2rDN13w/master.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", AVATAR 2: DÒNG CHẢY CỦA NƯỚC
-https://s5.phim1280.tv/20250513/XQBfOc33/index.m3u8  
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",AVATAR 3: LỬA VÀ TRO TÀN 
-https://vip.opstream10.com/20251218/31897_14b14c86/3000k/hls/mixed.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PREDATORS 3: QUÁI THÚ VÔ HÌNH 3 
-https://s6.kkphimplayer6.com/20251115/h20c4erp/3500kb/hls/index.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PREDATORS 4: QUÁI THÚ VÔ HÌNH 4 
-https://s6.kkphimplayer6.com/20251115/aisNNBGH/3500kb/hls/index.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",SISU: GIÀ GÂN BÁO THÙ 
-https://vip.opstream15.com/20230517/39387_ed40f642/3000k/hls/mixed.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",SISU: HÀNH TRÌNH BÁO THÙ
-https://vip.opstream90.com/20251216/20281_a829b6de/3000k/hls/mixed.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", FURIOSA: BÙNG CHÁY LỮA HẬN 
-https://vip.opstream13.com/20240625/4458_e8f28385/3000k/hls/mixed.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", FURIOSA: CON ĐƯỜNG TỬ THẦN 
-https://vip.opstream10.com/20220321/1242_d6b90bdb/3000k/hls/mixed.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN BẢNG TRUYỀN KỲ
-https://s4.phim1280.tv/20250219/e1KSY5Ig/2000kb/hls/index.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN: TRIỀU CA PHONG VÂN
-https://s6.kkphimplayer6.com/20250806/zEebUON5/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN: CHIẾN HỎA TÂY KỲ 
-https://s6.kkphimplayer6.com/20250811/AxE6wUA2/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN: DƯƠNG TIỄN
-https://s6.kkphimplayer6.com/20251225/h2OBfTNB/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN: LÔI CHẤN TỬ
-https://s6.kkphimplayer6.com/20250529/AbFchWMA/3500kb/hls/index.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", BLACK PANTHER: CHIẾN BINH BÁO ĐEN 
-https://s6.kkphimplayer6.com/20251211/G08l6aGH/index.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", SÁT THỦ ANNA
-https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",THẾ GIỚI KHỦNG LONG: TÁI SINH 
-https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
-https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", THE BATTLESHIP: CHIẾN HẠM
-https://vip.opstream14.com/20220502/10562_9898709b/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", OLYMPUS HAS FALLEN: NHÀ TRẮNG THẤT THỦ 
-https://vip.opstream15.com/20221212/30028_ff82d10b/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", AGEL HAS FALLEN: KẺ PHẢN BỘI
-https://vip.opstream16.com/20220223/90_60ee6616/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", LONDON HAS FALLEN: LUÂN ĐÔN THẤT THỦ
-https://vip.opstream16.com/20221122/26373_9079fbe2/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", CLASH OF THE TITANS: CUỘC CHIẾN CỦA CÁC VỊ THẦN
-https://vip.opstream14.com/20220317/1346_346b32dc/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", WRATH OF THE TITANS: SỰ PHẪN NỘ CỦA CÁC VỊ THẦN
-https://vip.opstream12.com/20220427/13118_83a2f827/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", GODS OF EGYPT:NCÁC VỊ THẦN AI CÂP
-https://vip.opstream14.com/20220319/1818_b4990ddb/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", TRO TÀN VÙNG LÊN
+https://a.kvp726.com/20261001/XEsJsJ3H/index.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", VÙNG ĐẤT SÓI
+https://v7.kkphimplayer7.com/20260827/Vvs8HzME/index.m3u8
+
+
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch541_425_305", CCTV1
+http://74.91.26.218:82/live/cctv1hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png", CCTV2
+http://74.91.26.218:82/live/cctv2hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/CCTV3.png/revision/latest/scale-to-width-down/680?cb=20230514030148&path-prefix=vi", CCTV3
+http://74.91.26.218:82/live/cctv3hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/da/CCTV4.png/revision/latest?cb=20230520135601&path-prefix=vi", CCTV4
+http://74.91.26.218:82/live/cctv4hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/86/CCTV5.png/revision/latest/scale-to-width-down/1280?cb=20250201092935&path-prefix=vi", CCTV5
+https://cdn.qd.je/163189/cctv5
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/62/CCTV5%2B_logo.png/revision/latest?cb=20220226104639&path-prefix=vi", CCTV5+
+https://cdn.qd.je/163189/cctv5p
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d9/CCTV6.png/revision/latest?cb=20230816063202&path-prefix=vi", CCTV6
+http://74.91.26.218:82/live/cctv6hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a6/CCTV7_tr%C6%B0%E1%BB%9Bc_2019.png/revision/latest/scale-to-width-down/1547?cb=20230104111736&path-prefix=vi", CCTV7
+http://74.91.26.218:82/live/cctv7hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://www.tvchinese.net/uploads/tv/cctv8.jpg", CCTV8 
+http://74.91.26.218:82/live/cctv8hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/CCTV-9.png/revision/latest?cb=20220111064222", CCTV9
+http://74.91.26.218:82/live/cctv9hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmUMEKDTwahilfUCb6CEmVmyRG5vjn-1QAUQ&usqp=CAU", CCTV10
+http://74.91.26.218:82/live/cctv10hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ecd51263-bb0f-4465-af86-f7ed25e58e70/dew5uz3-0d3f3caa-7ac2-4c9d-aaf5-8aa6abc33f4b.png/v1/fill/w_1280,h_550/cctv11_logo_by_amazingtoludada3000_dew5uz3-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTUwIiwicGF0aCI6IlwvZlwvZWNkNTEyNjMtYmIwZi00NDY1LWFmODYtZjdlZDI1ZTU4ZTcwXC9kZXc1dXozLTBkM2YzY2FhLTdhYzItNGM5ZC1hYWY1LThhYTZhYmMzM2Y0Yi5wbmciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.8ug6Sn5aUfjIJREthEuWeK0cIMretxYjCpnyiH0U2BM", CCTV11
+http://74.91.26.218:82/live/cctv11hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7b/CCTV12.png/revision/latest/scale-to-width-down/1131?cb=20230513114830&path-prefix=vi", CCTV12
+http://74.91.26.218:82/live/cctv12hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e4/CCTV13.png/revision/latest/scale-to-width-down/1131?cb=20230513114844&path-prefix=vi", CCTV13
+http://74.91.26.218:82/live/cctv13hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/happy-heroes/images/c/c8/CCTV-14_Logo.png/revision/latest?cb=20201002050804", CCTV14
+http://74.91.26.218:82/live/cctv14hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://i.imgur.com/MXep2Zc.png", CCTV15
+http://74.91.26.218:82/live/cctv15hd.m3u8
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/CCTV-16.png/revision/latest?cb=20211107032828", CCTV16
+https://cdn.qd.je/163189/cctv16
+#EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo=" https://i.imgur.com/omJsYRq.png", CCTV17
+http://74.91.26.218:82/live/cctv17hd.m3u8
+
+
+
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Bệu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/289650.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Kiêu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/741294.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Ngố
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/301238.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Nhí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/301263.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Péo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/303098.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Quỷ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/304565.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Tồ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/796315.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Tốc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/307240.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Gáy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/294335.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Son
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/306290.m3u8
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Ô Long
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/432017.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Bệu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/289650.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Kiêu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/741294.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Ngố
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/301238.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Nhí
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/301263.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Péo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/303098.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Quỷ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/304565.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Tồ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/796315.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Tốc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/307240.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Gáy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/294335.flv
+#EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Son
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://live2.zktsva.app/live/306290.flv
+
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV SÚP LƠ
+https://playback.livetl004.com/live/6a9a5525864ea536c2577392.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV CRIS
+https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV GIÀNG A DÂN
+https://playback.livetl004.com/live/69f42e961f739deff81510c0.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV SAITAMA
+https://playback.livetl004.com/live/69f42e961f739deff81510c0.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV SIÊU QUẬY
+https://playback.livetl002.com/live/6a2a59b347bbddd62a8dc4e4.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV CỐ TƯ NGHIÊM
+https://playback.livetl004.com/live/69a1aaa7230584579e2d5ce1.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV KAYTI
+https://playback.livetl004.com/live/69b8e6f43bcf2231c35d5144.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV CÁ MẬP
+https://playback.livetl006.com/live/6a0c7c4b1ae4d6db02433c48.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV LỮ BỐ
+https://playback.livetl006.com/live/6a9776215126529dede9bf51.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV THÍCH ĐỦ THỨ
+https://playback.livetl002.com/live/6a704ad865997681f18c2160.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV KHANG HI
+https://playback.livetl006.com/live/6a7c0d8f65997681f18cacc4.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV RIO
+https://playback.livetl004.com/live/6a01a2511e8555d7a3685f5c.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV MÁN NÚI
+https://playback.livetl002.com/live/69cf6331585c5992182f4160.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV A LONG
+https://playback.livetl004.com/live/69ef10b47146e04fbe6d4363.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV MEOMEO
+https://playback.livetl004.com/live/69be75e0a0a45974afb67776.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV ĐOÀN DỰ
+https://playback.livetl006.com/live/6a5df755b89dded67b39b8bc.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV NGƯỜI KIẾN
+https://playback.livetl004.com/live/6a439a7fb89dded67b208b87.flv
+#EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV Titan
+https://playback.livetl006.com/live/69d37c3a4da3e15776b6db56.flv
+
