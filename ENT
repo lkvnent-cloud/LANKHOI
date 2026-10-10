@@ -5,13 +5,15 @@ https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_56000
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 group-title="LKVNENT",| Tyc Sport Argentina
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1090711&extension=ts&play_token=jusk0cPyp1
+#EXTINF:-1 group-title="LKVNENT" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", Barca TV
+http://14.hls.gd/ch1618/mono.m3u8?token=adilgold.v2_R-1I8gyjHkv52jOGIx2IwNvpZ7wNGqYceLbNfLjOMCznh1uJpjxrAKHk24YuSHlKph-44LSV6nuMfg
 #EXTINF:-1 group-title="LKVNENT" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
 #EXTINF:-1 group-title="LKVNENT" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", LVTV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31596/index.m3u8
-#EXTINF:-1 group-title="LKVNENT",| RMTV
+#EXTINF:-1 group-title="LKVNENT",| Real TV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31847/index.m3u8
-#EXTINF:-1 group-title="LKVNENT",| SPORTING TV
+#EXTINF:-1 group-title="LKVNENT",| Sporting TV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2530/index.m3u8
 #EXTINF:-1 group-title="LKVNENT",| CCTV5+
 https://cdn.qd.je/163189/cctv5p
@@ -133,6 +135,33 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2362/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12232/index.m3u8
 #EXTINF:-1 group-title="LKVNENT",| 5Sport Gold HD IL
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12254/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| Матч!
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch2126/mono.m3u8?token=adilgold.v2_9cDZdM8KVkN5MUoTcxxYHz_tWHgaNRnmklc4xsmHMnUFQvZLxKkPCIFQK4-yb2CrRvNjJI_i0hC2iQ
+#EXTINF:-1 group-title="LKVNENT",| Матч! Футбол 1
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch2123/mono.m3u8?token=adilgold.v2_tR-c19sn8gkeUTzUHfimg0YaJKo57xDNF0uj9LI7ZQepg3L909jCRVcfYJLY3G8wtyXbelWyVsMP-w
+#EXTINF:-1 group-title="LKVNENT",| Матч! Футбол 2
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch2124/mono.m3u8?token=adilgold.v2_pmwxn5ujKV8tvuNzJZmEju3VFOByM6C31zHSA4N4XwdJDHGPvYT638v9qVozxu8tDVBLtu2k9BwvBw
+#EXTINF:-1 group-title="LKVNENT",| Матч! Футбол 3
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch2125/mono.m3u8?token=adilgold.v2_351jIXnt59kjBzg4VDPTo-AD37xfGhRZ75vHap7bIVRnDQZjkQoA4Isu_jr5l0h4DZLMeretBW79tw
+#EXTINF:-1 group-title="LKVNENT",| Матч! Премьер
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch2005/mono.m3u8?token=adilgold.v2_uH3IdYuSiFn71wO5Xp3sFroOd1BkPoVfGyI0b9-Kam-wp3e_8HDVKwm6kX3voLh8ZzI26IvtojCBSQ
+#EXTINF:-1 group-title="LKVNENT",| Матч! Игра
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch3304/mono.m3u8?token=adilgold.v2_al5UzOIRiRWeyMUAnvLliKk2WYlX3B6BB9jLVup5NVX6mvRzVUJJ2m8C2z3hCj0_f0WPtQVUSnbotg
+#EXTINF:-1 group-title="LKVNENT",| Мяч
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch708/mono.m3u8?token=adilgold.v2_Zig59hvvCo4VfI-KOA7YIDa4wh4Nq2t9NE12IwlllZqyo2nu3xq-gH9PIgniABJ9vWSmEc1wzne6
+#EXTINF:-1 group-title="LKVNENT",| ТВ Спорт
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch447/mono.m3u8?token=adilgold.v2_2lQhL43YUYBAJOmr721BwCCYfCuElTuNY--Nu1TTqJ5ilOnGKqkxEsHPdX1VvJS8bq4rtjcoubbe
+#EXTINF:-1 group-title="LKVNENT",| Хоккей ТВ
+#EXTVLCOPT:network-caching=1000
+http://14.hls.gd/ch663/mono.m3u8?token=adilgold.v2_chphXLiddGsUugoJUamvxQC-ui0qoJkiHTMCRvmf0sOZ-DrJpYzSDsWPsA4-Gh3avvf0N5GT_KdC
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -169,63 +198,68 @@ https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", CÀ MAU TV 
 https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV1 
-https://live.fptplay53.net/epzsd1/angiang01_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=66
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV2 
-https://live.fptplay53.net/epzhd2/angiang02hd_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", AN GIANG TV3
-https://live.fptplay53.net/epzsd1/angiang03_hls.smil/chunklist_b2500000.m3u8
+https://247.dpdns.org/module/IPTV/?id=ATV3&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 1 
-https://live.canthotv.vn/live/tv/playlist.m3u8 
+https://live.canthotv.vn/live/tv/chunklist_w693005420.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 2 
-https://freem3u.xyz/api/live/play.m3u8?vid=61
+https://live.canthotv.vn/cs2/live.stream/chunklist_w1497265452.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 3 
-https://live.canthotv.vn/cs3/tv/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL1 
-https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL2
-https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_3800000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL3
+https://live.canthotv.vn/cs3/tv/chunklist_w1003748170.m3u8
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL1.webp", THVL1 - Báo và PTTH Vĩnh Long
+https://vips-livecdn.fptplay.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_3800000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL2.webp", THVL2 - Báo và PTTH Vĩnh Long
+https://vips-livecdn.fptplay.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_3800000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL3.webp", THVL3 - Báo và PTTH Vĩnh Long
 https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL4 
-https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL5
-https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL4.webp", THVL4 - Báo và PTTH Vĩnh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=220
+#EXTINF:-1 tvg-id="vinhlong5hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THVL5.webp", THVL5 - Báo và PTTH Vĩnh Long
+https://freem3u.xyz/api/live/play.m3u8?vid=91
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 1 
 https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 2 
-https://live.fptplay53.net/epzhd2/mientaythdt02_vhls.smil/chunklist_b5000000.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=90
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TÂY NINH TV 
 https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV1 
-https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV2
-https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV3 
-https://live.fptplay53.net/epzhd1/htv3_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV4
-https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  HTV5 - B Channel
+#EXTINF:-1 tvg-id="htv1" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1 - Báo và PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=190
+#EXTINF:-1 tvg-id="htv2hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s7768.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png" catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2 - Vie Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=191
+#EXTINF:-1 tvg-id="htv3" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV3.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3 - Báo và PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=192
+#EXTINF:-1 tvg-id="htv4" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV4.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv-key/${start}/${offset}", HTV4 - Báo và PTTH Thành Phố Hồ Chí Minh
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=9
+#EXTINF:-1 tvg-id="htv5" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/HTV5.jpg", HTV5 - B Channel
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=151
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV7
-https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV THỂ THAO 
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV9 
-https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV THUẦN VIỆT
-https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV CA NHẠC
-https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV PHIM
-https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV DU LỊCH CUỘC SỐNG
-https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV GIA ĐÌNH
-https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV PHỤ NỮ
-https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTVC+
-https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv7hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV7 - Báo và PTTH Thành Phố Hồ Chí Minh
+https://vips-livecdn.fptplay.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png" http://sv.cvtv.xyz:3000/mytvod.m3u8?id=18&time=${start}&offset=${duration}", HTV Thể Thao
+https://vips-livecdn.fptplay.net/live/media/htvthethao/live247-hls-avc/htvthethao-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv9hd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV9 - Báo và PTTH Thành Phố Hồ Chí Minh
+https://vips-livecdn.fptplay.net/live/media/htv9/live247-hls-avc/htv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/htvcthuanviet.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcthuanviet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Thuần Việt
+https://freem3u.xyz/api/live/play.m3u8?vid=13
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="ĐỊA PHƯƠNG" tvg-logo=https://img-zlr1.tv360.vn/image1/2020_09_23/160082347056/e8ce9503d96a_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcgiadinh_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC Gia đình HD
+https://freem3u.xyz/api/live/play.m3u8?vid=11
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-phu-nu/${start}/${offset}", HTVC Phụ nữ HD
+https://freem3u.xyz/api/live/play.m3u8?vid=12
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-du-lich-cuoc-song/${start}/${offset}", HTVC Du lịch Cuộc sống HD
+https://freem3u.xyz/api/live/play.m3u8?vid=133
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-ali1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_480_270.png", HTVC Phim HD
+https://freem3u.xyz/api/live/play.m3u8?vid=15
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_640_360.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htvc-ca-nhac/${start}/${offset}", HTVC Ca nhạc HD
+https://freem3u.xyz/api/live/play.m3u8?vid=14
+#EXTINF:-1 tvg-id="htvcplushd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://vietanhtv.id.vn/logo/htvcplus.png", HTVC+
+https://freem3u.xyz/api/live/play.m3u8?vid=132
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 1
 https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 2
@@ -235,16 +269,16 @@ https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV1 
-https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=69
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV2
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/binh-thuan/KenhCoBan.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=45
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", KHÁNH HÒA TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=khanh-hoa
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐAK LAK 
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", GIA LAI TV 
-https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
+https://vmttv.dpdns.org/tv360/?id=gia-lai
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NGÃI TV1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=81
