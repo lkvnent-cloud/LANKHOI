@@ -528,23 +528,30 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="phim-au-my" group-title=" SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/phim-au-my/KenhCoBan.png",Phim Âu Mỹ
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
 
-#EXTINF:-1 group-title="BASKETBALL", BLV COZY
+
+#EXTINF:-1 group-title="🏀 BASKETBALL", BLV HENDRY
+https://pull.niues.live/live/stream-9912112_lhd.m3u8?auth_key=1791785069-0-0-32b33ba5f151999251c09709781321f3
+#EXTINF:-1 group-title="🏀 BASKETBALL", BLV A CHÈ
+https://pull.niur.live/live/stream-356042_lhd.m3u8?txSecret=2420b481b91ed9ed62ec0ec32d55a327&txTime=6accbed7
+#EXTINF:-1 group-title="🏀 BASKETBALL", BLV CHAN SENA
+https://pull.niur.live/live/stream-9912115_lhd.m3u8?txSecret=2420b481b91ed9ed62ec0ec32d55a327&txTime=6accbed7
+#EXTINF:-1 group-title="🏀 BASKETBALL", BLV COZY
 https://live05.miekgo.app/live/87379114.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV POCARI
+#EXTINF:-1 group-title="🏀 BASKETBALL", BLV POCARI
 https://live05.miekgo.app/live/19919577.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV ROCKSTAR
+#EXTINF:-1 group-title="🏀 BASKETBALL", BLV ROCKSTAR
 https://live05.miekgo.app/live/82054853.m3u8
-#EXTINF:-1 group-title="BASKETBALL", NBA TV
+#EXTINF:-1 group-title="🏀 BASKETBALL", NBA TV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6491/index.m3u8
-#EXTINF:-1 group-title="BASKETBALL", | Sky Sport Basket
+#EXTINF:-1 group-title="🏀 BASKETBALL", | Sky Sport Basket
 http://lordstreams.live:80/9857855271/8369553594/661335
-#EXTINF:-1 group-title="BASKETBALL", | Arena Basket
+#EXTINF:-1 group-title="🏀 BASKETBALL", | Arena Basket
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31609/index.m3u8
-#EXTINF:-1 group-title="BASKETBALL", | SK Basket
+#EXTINF:-1 group-title="🏀 BASKETBALL", | SK Basket
 http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17257
-#EXTINF:-1 group-title="BASKETBALL", | S Sport 1
+#EXTINF:-1 group-title="🏀 BASKETBALL", | S Sport 1
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6825/index.m3u8
-#EXTINF:-1 group-title="BASKETBALL", | S SPORT 2
+#EXTINF:-1 group-title="🏀 BASKETBALL", | S SPORT 2
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6828/index.m3u8
 
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
@@ -755,7 +762,7 @@ https://live.khoga.space/live/livehub1/index.m3u8
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.khoga.space/live/livehub2/index.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", CACA
+#EXTINF:-1 group-title="PHÁO HOA TV", XÔI XOÀI
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.khoga.space/live/livehub3/index.m3u8
@@ -764,7 +771,7 @@ https://live.khoga.space/live/livehub4/index.m3u8
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.khoga.space/live/livehub4/index.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", MÃ VĂN TÀI
+#EXTINF:-1 group-title="PHÁO HOA TV", KHÔ CHÈ
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.khoga.space/live/livehub5/index.m3u8
@@ -784,7 +791,7 @@ https://live.khoga.space/live/livehub8/index.m3u8
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.khoga.space/live/livehub9/index.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", XÔI XOÀI
+#EXTINF:-1 group-title="PHÁO HOA TV", XÔI XOÀI+
 #EXTVLCOPT:http-referrer=https://khoga.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://live.khoga.space/live/livehub10/index.m3u8
@@ -825,6 +832,14 @@ https://stm6dad62063600.stream.hdplaylink.com/sklive/kai/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stm6dad62063600.stream.hdplaylink.com/sklive/carot/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", LONG RUỒI
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/longruoi/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", NẾP CẨM
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/nepcam/playlist.m3u8
 #EXTINF:-1 group-title="PHÁ LÀNG TV", Chuối Tây
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
