@@ -171,36 +171,33 @@ http://14.hls.gd/ch447/mono.m3u8?token=adilgold.v2_2lQhL43YUYBAJOmr721BwCCYfCuEl
 #EXTVLCOPT:network-caching=1000
 http://14.hls.gd/ch663/mono.m3u8?token=adilgold.v2_chphXLiddGsUugoJUamvxQC-ui0qoJkiHTMCRvmf0sOZ-DrJpYzSDsWPsA4-Gh3avvf0N5GT_KdC
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title=""🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
+#EXTINF:-1 tvg-id="vtv1hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title=""🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
+#EXTINF:-1 tvg-id="vtv2hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
 https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title=""🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/3.png", VTV3
+#EXTINF:-1 tvg-id="vtv3hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/3.png", VTV3
 https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title=""🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/4.png" , VTV4
+#EXTINF:-1 tvg-id="vtv4hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/4.png" , VTV4
 https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" group-title=""🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
 https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title=""🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/5.png" , VTV5
+#EXTINF:-1 tvg-id="vtv5hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/5.png" , VTV5
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
 https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title=""🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png", VTV6
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png", VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title=""🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/9.png", VTV7
 https://vmttv.dpdns.org/tv360/?id=vtv7
-#EXTINF:-1 tvg-id="vtv8hd" group-title=""🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/10.png" catchup="default" catchup-days="2", VTV8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/10.png" catchup="default" catchup-days="2", VTV8
 https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv9hd" group-title=""🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/11.png", VTV9
+#EXTINF:-1 tvg-id="vtv9hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/11.png", VTV9
 https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv10hd" group-title=""🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/12.png", VTV10
+#EXTINF:-1 tvg-id="vtv10hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/12.png", VTV10
 https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title=""🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/6.png", VTV5 Tây Nam Bộ
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/6.png", VTV5 Tây Nam Bộ
 https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🔴"🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/7.png", VTV5 Tây Nguyên
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/7.png", VTV5 Tây Nguyên
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
-
-
-
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ANTV 
 https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QPVN 
@@ -281,35 +278,29 @@ https://freem3u.xyz/api/live/play.m3u8?vid=255
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ĐN3 - Báo và PTTH Đồng Nai
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.vietanhtv.top/vieon/vieon.php?id=dong-nai-3
-#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", LÂM ĐỒNG TV1 
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", LTV1 - Báo và PTTH LÂM ĐỒNG
 https://freem3u.xyz/api/live/play.m3u8?vid=69
-#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", LÂM ĐỒNG TV2
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", LTV2 - Báo và PTTH LÂM ĐỒNG
 https://freem3u.xyz/api/live/play.m3u8?vid=45
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", KTV - Báo và PTTH Khánh Hòa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vmttv.dpdns.org/tv360/?id=khanh-hoa
 #EXTINF:-1 tvg-id="khanhhoa1" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV1_KhanhHoa.png", KTV1 - Báo và PTTH Khánh Hòa
 https://vmttv.dpdns.org/tv360/?id=khanh-hoa-1
-#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ĐAK LAK 
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", DRT - Báo và PTTH ĐAK LAK 
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
-#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", GIA LAI TV 
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", GTV - Báo và PTTH GIA LAI 
 https://vmttv.dpdns.org/tv360/?id=gia-lai
-#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QUẢNG NGÃI TV1
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QNGTV1 - Báo và PTTH QUẢNG NGÃI
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=81
-#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QUẢNG NGÃI TV2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.vietanhtv.top/vieon/vieon.php?id=kon-tum-1
-https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
-#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QUẢNG NGÃI TV2
-https://ace.hoiquan.click/module/IPTV/?id=QNgTV2&accKenh=vuminhthanh1
-#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ĐÀ NẴNG TV1 
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", DNRTV1 - Báo và PTTH ĐÀ NẴNG
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
-#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", ĐÀ NẴNG TV2 
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", DNRTV2 - Báo và PTTH ĐÀ NẴNG
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", HUẾ TV - Báo và PTTH Huế 
 https://live.huetv.com.vn/TRT-Online/chunklist.m3u8
-#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QUÃNG TRỊ TV 
+#EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", QTTV - Báo và PTTH QUÃNG TRỊ
 https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8 
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", BHTTV - Báo và PTTH Hà Tĩnh
 https://freem3u.xyz/api/live/play.m3u8?vid=58
