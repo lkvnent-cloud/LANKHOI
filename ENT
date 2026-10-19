@@ -570,27 +570,27 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6828/index.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", BLV KAKA
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ivs-play.sagion.top/live/live_1791968561323_kfy9daag.m3u8
+https://cdn.saigon999.live/live/live01.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL",BLV CHIM NHỎ
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
+https://cdn.saigon999.live/live/live02.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", BLV PHÁO THỦ
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+https://cdn.saigon999.live/live/live03.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", BLV ENZO
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+https://cdn.saigon999.live/live/live04.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", BLV KỀN KỀN
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+https://cdn.saigon999.live/live/live05.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", BLV LEE SIN
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+https://cdn.saigon999.live/live/live06.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", BLV RICKY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -725,48 +725,27 @@ https://cdn.livega.tv/live/dc09d2cf9561f03e6ab63583a1724dfc/index.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KAKA
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://ivs-play.sagion.top/live/live_1791968561323_kfy9daag.m3u8
-https://ivs-play.sagion.top/live/live_1791891184222_xpnrvyte.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", CHIM NHỎ
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+https://cdn.saigon999.live/live/live01.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", VODCAA
+#EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", PHÁO THỦ
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+https://cdn.saigon999.live/live/live02.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", LAVIEEE
+#EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", ENZO
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", TÀY
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", VĂN MINH
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KEN
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+https://cdn.saigon999.live/live/live03.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", NGƯỜI KIẾN
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
+https://cdn.saigon999.live/live/live04.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", TIỂU MÂY
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+https://cdn.saigon999.live/live/live04.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KỀN KỀN
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", LEE SIN
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+https://cdn.saigon999.live/live/live05.m3u8
 
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A" tvg-logo="https://xoiche2.live/images/logo-220.webp", BLV Xôi Xéo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
