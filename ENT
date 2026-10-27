@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png",| VTV6 HD
+#EXTINF:-1 tvg-id="vtv6hd" group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png",| 🌐VTV6 HD
 https://vmttv.dpdns.org/tv360/?id=vtv6
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| FIFA+ ⚽
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
@@ -740,6 +740,21 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="🔴 BADMINTON vs POOL", POOL 8-Ball World Championship 1
 https://cdn.sports-cas889abxfileposo.site/live/live1861/index.m3u8|Referer=https://choangtv7.com/
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", XÔI LẠC 61
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel61.flv?wsSecret=6c1a5e0bba09a60515cd6bfeae3ed71e&wsABSTime=1793139899
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", XÔI LẠC 62
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=d21f17caae32c0197c914bf04d16b6a3&wsABSTime=1793140391
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", XÔI LẠC 63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel63.flv?wsSecret=cf8a8450e411cf3df3365e7885c319d3&wsABSTime=1793140077
 #EXTINF:-1 group-title="🔴 BADMINTON vs POOL", SABong 1
 https://cdn.livega.tv/live/2d1ec3fa09775764196971c8840bc6ab/index.m3u8
 #EXTINF:-1 group-title="🔴 BADMINTON vs POOL", SABong 2
@@ -811,31 +826,54 @@ https://geo.saigon999.live/live/live07.m3u8
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://ivsplay.saigon999.live/live/live07.m3u8
-
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LONG CA
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://geo.saigon999.live/live/live06.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LONG CA +
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ivsplay.saigon999.live/live/live06.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LAVIE
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://geo.saigon999.live/live/live05.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LAVIE +
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ivsplay.saigon999.live/live/live05.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV CHÈ
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://geo.saigon999.live/live/live04.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV CHÈ +
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ivsplay.saigon999.live/live/live04.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV KAKA
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://geo.saigon999.live/live/live03.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV KAKA +
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ivsplay.saigon999.live/live/live03.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KỀN KỀN
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://geo.saigon999.live/live/live02.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KỀN KỀN +
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ivsplay.saigon999.live/live/live02.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KAAKAA
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://geo.saigon999.live/live/live01.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KAAKAA+
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://ivsplay.saigon999.live/live/live01.m3u8
 
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A" tvg-logo="https://xoiche2.live/images/logo-220.webp", BLV Xôi Xéo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
