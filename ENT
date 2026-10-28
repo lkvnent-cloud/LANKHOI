@@ -576,12 +576,12 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6828/index.m3u8
 
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV KAKA
 #EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn.saigon999.live/live/live01.m3u8
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV CHIM NHỎ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://gn-live.saigon999.live/live01/index-8386live.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV LAVIE
 #EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://geo.saigon999.live/live/live06.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://gn-live.saigon999.live/live02/index-8386live.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV PHÁO THỦ
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -611,12 +611,6 @@ https://stm6dad62063600.stream.hdplaylink.com/sklive/teppy/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live2.jorvakstreamcache.com/live/channel33.flv
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV HD TYSON 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001792489086-0-0-7c2919e4e816035906001e33b897f8df
-
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", |Superliga Feminina SERIE A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -818,10 +812,14 @@ https://tradatv-s1.b-cdn.net/live/loatay_s1593e96cb.m3u8
 https://tradatv-s1.b-cdn.net/live/loaton_s18655cdd8.m3u8
 
 
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV KAKA
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+https://gn-live.saigon999.live/live01/index-8386live.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV THÉP
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://geo.saigon999.live/live/live07.m3u8
+https://gn-live.saigon999.live/live07/index-8386live.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV THÉP +
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -829,7 +827,7 @@ https://ivsplay.saigon999.live/live/live07.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LONG CA
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://geo.saigon999.live/live/live06.m3u8
+https://gn-live.saigon999.live/live06/index-8386live.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LONG CA +
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -837,7 +835,7 @@ https://ivsplay.saigon999.live/live/live06.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LAVIE
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://geo.saigon999.live/live/live05.m3u8
+https://gn-live.saigon999.live/live05/index-8386live.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LAVIE +
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -845,19 +843,15 @@ https://ivsplay.saigon999.live/live/live05.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV CHÈ
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://geo.saigon999.live/live/live04.m3u8
+https://gn-live.saigon999.live/live04/index-8386live.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV CHÈ +
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://ivsplay.saigon999.live/live/live04.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV KAKA
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://geo.saigon999.live/live/live03.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV KAKA +
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live03.m3u8
+https://ivsplay.saigon999.live/live/live01.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KỀN KỀN
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -865,15 +859,15 @@ https://geo.saigon999.live/live/live02.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KỀN KỀN +
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live02.m3u8
+https://gn-live.saigon999.live/live01/index-8386live.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KAAKAA
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://geo.saigon999.live/live/live01.m3u8
+https://geo.saigon999.live/live/live03.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KAAKAA+
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live01.m3u8
+https://ivsplay.saigon999.live/live/live03.m3u8
 
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A" tvg-logo="https://xoiche2.live/images/logo-220.webp", BLV Xôi Xéo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1211,7 +1205,7 @@ https://live2.jorvakstreamcache.com/live/channel25.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live2.jorvakstreamcache.com/live/channel26.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 XOILAC 27  
+#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 🏀KOBE 27  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
@@ -1246,212 +1240,6 @@ https://live2.jorvakstreamcache.com/live/channel32.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live2.jorvakstreamcache.com/live/channel33.flv
-
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (ROY)Channel 1  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-1.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (FABIO)Channel 2  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel2.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (FABIO)Channel 2+ (HD FABIO) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-2.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (XOILAC)Channel 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel3.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (FXOILAC)Channel 3+ (HD FABIO) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-3.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (TOM)Channel 4+ (HD TOM) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-4.flv?auth_key=3000001792489103-0-0-ed0286bcb7a85ee948c60d87a86ed4a0
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (NICK)Channel 5+(HD NICK) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-5.flv?auth_key=3000001792488934-0-0-e1baa616d5ce2f54195617397cee86fc
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (MAX)Channel 6+ (HD MAX) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-6.flv?auth_key=3000001792489094-0-0-8c8a9eb7136beb73a83ea98f6e72b798
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (JEAN)Channel 7+ (HD JEAN) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-7.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (BEE)Channel 8+ (HD BEE) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-8.flv?auth_key=3000001792489224-0-0-25d0536a0366bdcf8a52765f43ad69f1
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (TONI)Channel 9+(HD TONI) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-9.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (XOILAC)Channel 10+ (HD MARTY) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-10.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (ASTRA)Channel 11+ (HD ASTRA) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-11.flv?auth_key=3000001792489192-0-0-d8f37d3689acbe71afb5ec7d35bf09a7
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (JOHAN)Channel 12+ (HD JOHAN) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-12.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (XMEN)Channel 13+ (HD XMEN) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-13.flv?auth_key=3000001792489218-0-0-105a404008e8671c060ceafc193a4c13
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (HIRO)Channel 14+ (HD HIRO) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-14.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (BRADY)Channel 15+ (HD BRADY) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-15.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (BRADY)Channel 15++  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793055691-0-0-676fb888feef2602b382adebbd9115a3
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (RIO) Channel 16  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live1.quickscoreboardz.com/live/channel16.flv?wsSecret=b71b2a0380feaf2c310e79a6b5772091&wsABSTime=1792554967
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (RIO) Channel 16+ (HD RIO) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-16.flv?auth_key=3000001792511773-0-0-7aaa838229db053173d589b6a586053d
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (NEMO)Channel 17+ (HD NEMO) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-17.flv?auth_key=3000001792489248-0-0-0c2513262f56438d007112778e66aa06
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (KEN)Channel 18+ (HD KEN) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-18.flv?auth_key=3000001792489185-0-0-5747e53c42ca18f80cb9cb601ecc481d
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (FILIP)Channel 19+ (HD FILIP) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-19.flv?auth_key=3000001792489204-0-0-577159ab83269cb6ebe4037db2477127
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (SILVA)Channel 20+ (HD SILVA) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-20.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (RAVEN)Channel 21+ (HD RAVEN) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-21.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (RAVEN)Channel 21+ (HD RAVEN) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-21.flv?auth_key=3000001792489211-0-0-6804ff0437654e88dbb56e679fd99ae2
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (RAVEN)Channel 21  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel21.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (ZANE)Channel 22+ (HD ZANE) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-22.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (LOGAN)Channel 23+ (HD LOGAN) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-23.flv?auth_key=3000001792489032-0-0-aa097db0da6d446e4948150903f24e94
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (FELIX)Channel 24+(HD FELIX) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-24.flv?auth_key=3000001792489267-0-0-6bcd38a95f15c65307d6a6e6217f5894
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (ALAN)Channel 25  
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel25.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (XOILAC)Channel 26+ (HD MARTY) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-26.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (XOILAC)Channel 27+ (HD MARTY) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-27.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 OLER Channel 28+ (HD MARTY) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-28.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (TOMMY)Channel 29+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-29.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 MARTY Channel 30+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-30.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (LUCAS)Channel 31+ (HD LUCAS) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-31.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (LUCAS)Channel 31++ (LUCAS) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel31.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (LUCAS)Channel 31+++ (HD LUCAS) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-31.flv?auth_key=3000001792489018-0-0-1780909d7a41fa218510d4c95593244e
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (VIC)Channel 32+ (HD MARTY) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel-32.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 (TYSON)Channel 33+ (HD TYSON) 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
-https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001792489086-0-0-7c2919e4e816035906001e33b897f8df
 
 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", COZY
