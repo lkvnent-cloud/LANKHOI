@@ -447,93 +447,46 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ",  FPT Sự Kiện 1
-https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ",  FPT Event 1
-https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Sự Kiện 2
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ",  FPT Event 2
-https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Sự Kiện 3
-https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ",  FPT Event 3
-https://live.fptplay53.net/live/media/event-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Sự Kiện 4
-https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Event 4
-https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Sự Kiện 5 
-https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8 
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Event 5
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ",  FPT Sự Kiện 6
-https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Event 6
-https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ",  FPT Sự Kiện 7
-https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Event 7 
-https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8 
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Sự Kiện 8
-https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Event 8
-https://live.fptplay53.net/live/media/event-08/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Sự Kiện 9
-https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Event 9
-https://live.fptplay53.net/live/media/event-09/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Sự Kiện 10
-https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Event 10
-https://live.fptplay53.net/live/media/event-10/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Sự Kiện 11
-https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" 🔴 SỰ KIỆN ", FPT Event 11
-https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
-
-#EXTINF:-1 tvg-id="tv360-9" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-9/KenhCoBan.png",TV360+ 9
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-10" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-10/KenhCoBan.png",TV360+ 10
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360-11" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360-11/KenhCoBan.png",TV360+ 11
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="livestream-01" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/livestream-01/KenhCoBan.png",Livestream 01
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/livestream-01/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="tv360" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/tv360/KenhCoBan.png",TV360
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-anime" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-anime/KenhCoBan.png",360 Anime
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-anime/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-phim-kinh-dien" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-phim-kinh-dien/KenhCoBan.png",360 Phim Kinh điển
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-phim-kinh-dien/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-hai-tinh-cam" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-hai-tinh-cam/KenhCoBan.png",360 Hài -Tình cảm
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hai-tinh-cam/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-hoa-ngu" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-hoa-ngu/KenhCoBan.png",360 Hoa Ngữ
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hoa-ngu/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-hanh-dong-chau-a" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-hanh-dong-chau-a/KenhCoBan.png",360 Hành động Châu Á
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-hanh-dong-chau-a/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-k-drama" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-k-drama/KenhCoBan.png",360 K-Drama
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-k-drama/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-c1-chau-au" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-c1-chau-au/KenhCoBan.png",360 C1 Châu Âu
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c1-chau-au/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-c2-chau-au" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-c2-chau-au/KenhCoBan.png",360 C2 Châu Âu
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c2-chau-au/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-c3-chau-au" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-c3-chau-au/KenhCoBan.png",360 C3 Châu Âu
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-c3-chau-au/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-the-thao-chau-a" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-the-thao-chau-a/KenhCoBan.png",360 Thể Thao Châu Á
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-the-thao-chau-a/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-cong-thuc-1" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-cong-thuc-1/KenhCoBan.png",360 Công Thức 1
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-cong-thuc-1/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-bundesliga" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-bundesliga/KenhCoBan.png",360 Bundesliga
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-bundesliga/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-golf" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-golf/KenhCoBan.png",360 Golf
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-golf/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="360-tennis" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/360-tennis/KenhCoBan.png",360 Tennis
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/360-tennis/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="hoat-hinh" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/hoat-hinh/KenhCoBan.png",Hoạt hình
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hoat-hinh/KenhCoBan.m3u8
-#EXTINF:-1 tvg-id="phim-au-my" group-title=" 🔴 SỰ KIỆN " group-logo="https://toiyeuvietnam.dpdns.org/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/phim-au-my/KenhCoBan.png",Phim Âu Mỹ
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-au-my/KenhCoBan.m3u8
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL57
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel57.flv?wsSecret=d3ceda17ae8e78c8735e0f6269f7d9bb&wsABSTime=1793293573
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL58
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel58.flv?wsSecret=87951e46cbd2a0ffb7e663178705c069&wsABSTime=1793294296
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL59
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel59.flv?wsSecret=ad32fdba2530a3243674e35b402aa8c8&wsABSTime=1793294233
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL60
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel60.flv?wsSecret=ea4ec697f35671d66e0810d4896cf0c4&wsABSTime=1793294386
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL61
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel61.flv?wsSecret=31b8e74ddb8056393562a7c15cd154dd&wsABSTime=1793293796
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL62
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=4d9d618f65d7ca2744a41b5768520a63&wsABSTime=1793293846
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL63
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel63.flv?wsSecret=fe43564b1093036316e2a070505a8ca1&wsABSTime=1793293822
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL65
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel65.flv?wsSecret=95a5208eae433b06b4e5ba4f410b923b&wsABSTime=1793293867
 
 
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV BRIAN
@@ -556,11 +509,21 @@ https://live05.yefpwmc.app/live/19919577_tsc.m3u8
 https://live05.yefpwmc.app/live/82054853_tsc.m3u8
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV 247
 https://live05.yefpwmc.app/live/90865415_tsc.m3u8 
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV ALAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel25.flv
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV TOMMY 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live2.jorvakstreamcache.com/live/channel29.flv
+#EXTINF:-1 group-title="🏀 BASKETBALL", | BLV KOBE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel27.flv
 #EXTINF:-1 group-title="🏀 BASKETBALL", | NBA TV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6491/index.m3u8
 #EXTINF:-1 group-title="🏀 BASKETBALL",  | Sky Sport Basket
@@ -577,27 +540,15 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6828/index.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV KAKA
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://gn-live.saigon999.live/live01/index-8386live.m3u8
+https://play.saigon8386.live/live_5afc467f34a4a65b/live_5afc467f34a4a65b@saigon8386.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV KKK
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://play.saigon8386.live/live_5afc467f34a4a65b/index.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV LAVIE
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://gn-live.saigon999.live/live02/index-8386live.m3u8
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV PHÁO THỦ
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn.saigon999.live/live/live03.m3u8
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV ENZO
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn.saigon999.live/live/live04.m3u8
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV KỀN KỀN
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn.saigon999.live/live/live05.m3u8
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV LEE SIN
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn.saigon999.live/live/live06.m3u8
+https://gn-live.saigon999.live/123lavie/123lavie@hnstream.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV RICKY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -749,6 +700,21 @@ https://live1.quickscoreboardz.com/live/channel62.flv?wsSecret=d21f17caae32c0197
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live1.quickscoreboardz.com/live/channel63.flv?wsSecret=cf8a8450e411cf3df3365e7885c319d3&wsABSTime=1793140077
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", XÔI LẠC 87
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel87.flv?wsSecret=f70c1104ebda0a4ae20e8362613d9869&wsABSTime=1793230972
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", XÔI LẠC 88
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel88.flv?wsSecret=41c24bee240aa0842482291ed4d87fd5&wsABSTime=1793231143
+#EXTINF:-1 group-title="🔴 BADMINTON vs POOL", XÔI LẠC 89
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel89.flv?wsSecret=b1756b56e43b540726f13f7803f685cf&wsABSTime=1793231023
 #EXTINF:-1 group-title="🔴 BADMINTON vs POOL", SABong 1
 https://cdn.livega.tv/live/2d1ec3fa09775764196971c8840bc6ab/index.m3u8
 #EXTINF:-1 group-title="🔴 BADMINTON vs POOL", SABong 2
@@ -770,6 +736,10 @@ https://tradatv-s1.b-cdn.net/live/loabeo_s111a37cbe.m3u8
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tradatv-s1.b-cdn.net/live/loachim_s13236d6ee.m3u8
+#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A LỨNG
+#EXTVLCOPT:http-referrer=https://tradatv.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://tradatv-s1.b-cdn.net/live/loaphe_s117488c70.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A LONG
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -790,10 +760,6 @@ https://tradatv-s1.b-cdn.net/live/loapao_s19709a48f.m3u8
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tradatv-s1.b-cdn.net/live/loaphao_s187d33429.m3u8
-#EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A PHỆ
-#EXTVLCOPT:http-referrer=https://tradatv.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tradatv-s1.b-cdn.net/live/loaphe_s117488c70.m3u8
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A SẤY
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -816,58 +782,26 @@ https://tradatv-s1.b-cdn.net/live/loaton_s18655cdd8.m3u8
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 https://gn-live.saigon999.live/live01/index-8386live.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV THÉP
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV KKK
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://gn-live.saigon999.live/live07/index-8386live.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV THÉP +
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live07.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LONG CA
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://gn-live.saigon999.live/live06/index-8386live.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LONG CA +
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live06.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LAVIE
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://gn-live.saigon999.live/live05/index-8386live.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LAVIE +
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live05.m3u8
+https://gn-live.saigon999.live/live01/live01@hnstream.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV CHÈ
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://gn-live.saigon999.live/live04/index-8386live.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV CHÈ +
+https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV THÉP 
+#EXTVLCOPT:http-referrer=https://nembientv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://gn-live.saigon999.live/123thep/123thep@hnstream.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LONG CA
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live04.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV KAKA +
+https://gn-live.saigon999.live/123longca/123longca@hnstream.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LAVIEEE
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live01.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KỀN KỀN
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://geo.saigon999.live/live/live02.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KỀN KỀN +
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://gn-live.saigon999.live/live01/index-8386live.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KAAKAA
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://geo.saigon999.live/live/live03.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KAAKAA+
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live03.m3u8
+https://gn-live.saigon999.live/123lavie/123lavie@hnstream.m3u8
 
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A" tvg-logo="https://xoiche2.live/images/logo-220.webp", BLV Xôi Xéo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
