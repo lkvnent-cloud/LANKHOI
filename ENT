@@ -456,6 +456,11 @@ https://live1.quickscoreboardz.com/live/channel4.flv?wsSecret=4140a7a30332b483d8
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live1.quickscoreboardz.com/live/channel30.flv?wsSecret=973af7c55bb5f57c4aa44afb3266eb83&wsABSTime=1793310400
+#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel32.flv?wsSecret=665b873781680b88e998835aa86df851&wsABSTime=1793312320
 #EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL42
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -471,10 +476,6 @@ https://live1.quickscoreboardz.com/live/channel45.flv?wsSecret=5c5c088088b0bc112
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live1.quickscoreboardz.com/live/channel53.flv?wsSecret=d1bfc0f7a0569dd85d941ece5d29ef37&wsABSTime=1793309337
-#EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
-#EXTVLCOPT:network-caching=1000
 #EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL55
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -1141,6 +1142,79 @@ https://live2.jorvakstreamcache.com/live/channel32.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live2.jorvakstreamcache.com/live/channel33.flv
+
+#EXTINF:0, 🟢 21:00 25/10 ⚽ Manchester Utd vs Bournemouth (BLV Khô Cay) [hls] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615
+#EXTINF:0, 🟢 21:00 25/10 ⚽ Manchester Utd vs Bournemouth (BLV Khô Cay) [flv] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+rtmp://rtmp.cdnfastter.xyz/live/live_753c90457f?expire=1852800615&sign=2490e3636f03e8a305e86f545ec2c19d
+#EXTINF:0, 🟢 02:00 27/10 ⚽ Lễ Trao Giải vs Quả Bóng Vàng 2026 (BLV Tam Mao) [hls] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615
+#EXTINF:0, 🟡 18:00 02/11 ⚽ Kryvbas vs Dyn. Kyiv (BLV Xôi Gấc) [hls] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615
+#EXTINF:0, 🟡 18:00 02/11 ⚽ Kryvbas vs Dyn. Kyiv (BLV Xôi Gấc) [flv] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://live.khoga.space/live/livehub11.flv
+#EXTINF:0, 19:00 02/11 ⚽ Chonburi vs Pathum United (BLV Tam Mao) [hls] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615
+#EXTINF:0, 20:45 02/11 ⚽ Pakhtakor vs Al Nassr (BLV Khô Chè) [hls] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_a7657aeb05/index.m3u8?token=JhV-r8e3ccnFy-WcOqY4LotVZyi-effj_AKbg9uCVjU&expires=1852800615
+#EXTINF:0, 22:00 02/11 ⚽ Krylya Sovetov vs Zenit (BLV Xôi Gấc) [hls] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_5e3f2549e4/index.m3u8?token=pCk_XLBJTDboKaC3LME17XPjU4pgaPXEOkc_CroCj0U&expires=1852800615
+#EXTINF:0, 22:00 02/11 ⚽ Krylya Sovetov vs Zenit (BLV Xôi Gấc) [flv] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://live.khoga.space/live/livehub11.flv
+#EXTINF:0, 23:00 02/11 ⚽ Al-Sadd vs Al Ahli SC (BLV Khô Cá) [hls] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_062e5de010/index.m3u8?token=M6vDly-jvMUtRrO3xVQUwWJozWVPDQ0yVqDBWtZUbgM&expires=1852800615
+#EXTINF:0, 23:00 02/11 ⚽ Al-Sadd vs Al Ahli SC (BLV Khô Mật) [hls] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_b30ba5315c/index.m3u8?token=ZNaU8SPI--3-JASIZXv-JImAVGukJOEv6T9_GMWMfU0&expires=1852800615
+#EXTINF:0, 23:00 02/11 ⚽ Al-Sadd vs Al Ahli SC (BLV Khô Mật) [flv] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://live.khoga.space/live/livehub13.flv
+#EXTINF:0, 23:00 02/11 ⚽ Al Wasl vs Al Quwa Al Jawiya (BLV Tam Mao) [hls] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_65629930db/index.m3u8?token=daKfQOAqMEgkhrfCGDxiHdGWXsymB2dcncgmNkMoACY&expires=1852800615
+#EXTINF:0, 23:00 02/11 ⚽ Tractor vs Neftchi Fargona (BLV Khô Cay) [hls] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_753c90457f/index.m3u8?token=2DSSWeXAxyGpTCzUauOg-F4WPR6MfTkyCr51jCWcnQ0&expires=1852800615
+#EXTINF:0, 23:00 02/11 ⚽ Tractor vs Neftchi Fargona (BLV Khô Cay) [flv] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+rtmp://rtmp.cdnfastter.xyz/live/live_753c90457f?expire=1852800615&sign=2490e3636f03e8a305e86f545ec2c19d
+#EXTINF:0, 23:00 02/11 ⚽ Inter Turku vs Gnistan (BLV Xôi Bắp) [hls] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_9f71176d0e/index.m3u8?token=3MXeEPMRAVdl2yR_TeoKTStkQwOepkXuIthvlnr9Bdw
+#EXTINF:0, 23:00 02/11 ⚽ Inter Turku vs Gnistan (BLV Xôi Bắp) [flv] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_9f71176d0e/index.m3u8?token=3MXeEPMRAVdl2yR_TeoKTStkQwOepkXuIthvlnr9Bdw&expires=1852800615
+#EXTINF:0, 23:00 02/11 ⚽ VPS vs HJK (BLV Xôi Xoài) [hls] 
+#EXTVLCOPT:http-referrer=https://khoga1.live/
+#EXTVLCOPT:network-caching=1000
+https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615
 
 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", COZY
