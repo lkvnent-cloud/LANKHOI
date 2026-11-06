@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🔴 ⚽🏀🏐🥎 LKVNENT" tvg-logo="https://r2.epg.io.vn/2026-09-17/8.png",| 🌐VTV6 HD
 https://vmttv.dpdns.org/tv360/?id=vtv6
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| FIFA+ ⚽
@@ -63,7 +62,6 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31956/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31957/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| DAZN 5 HD PT
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31958/index.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPN HD US
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19156/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPN HD BR
@@ -86,7 +84,6 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19154/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30063/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| ESPNU HD US
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30067/index.m3u8
-
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 1
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2499/index.m3u8
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| BEIN 1 US
@@ -172,7 +169,6 @@ http://14.hls.gd/ch447/mono.m3u8?token=adilgold.v2_2lQhL43YUYBAJOmr721BwCCYfCuEl
 #EXTINF:-1 group-title="🔴 ⚽🏀🏐🥎 LKVNENT",| Ice Hockey TV
 #EXTVLCOPT:network-caching=1000
 http://14.hls.gd/ch663/mono.m3u8?token=adilgold.v2_chphXLiddGsUugoJUamvxQC-ui0qoJkiHTMCRvmf0sOZ-DrJpYzSDsWPsA4-Gh3avvf0N5GT_KdC
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/1.png", VTV1
 https://freem3u.xyz/api/live/play.m3u8?vid=2
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🔴🌐 ĐỊA PHƯƠNG" tvg-logo="https://r2.epg.io.vn/2026-09-17/2.png", VTV2
@@ -354,7 +350,6 @@ https://vmttv.dpdns.org/tv360/?id=hitv
 #EXTINF:-1 group-title="🔴🌐 ĐỊA PHƯƠNG", YouTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=31
-
 #EXTINF:-1 tvg-id="sctv1hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png", SCTV1
 https://vmttv.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🔴SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 - TODAY TV
@@ -445,7 +440,6 @@ https://freem3u.xyz/api/live/play.m3u8?vid=187
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 group-title="🔴SCVcab", ON LIFE 
 https://freem3u.xyz/api/live/play.m3u8?vid=188
-
 #EXTINF:-1 group-title="🔴🌐LIVE SPORTS",| XL4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -526,8 +520,6 @@ https://live1.quickscoreboardz.com/live/channel63.flv?wsSecret=fe43564b109303631
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live1.quickscoreboardz.com/live/channel65.flv?wsSecret=95a5208eae433b06b4e5ba4f410b923b&wsABSTime=1793293867
-
-
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV BRIAN
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1791801921-0-0-1d9a834b523e2e3a419693969d6365ce
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV HENDRY
@@ -575,7 +567,6 @@ http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17257
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6825/index.m3u8
 #EXTINF:-1 group-title="🏀 BASKETBALL",  | S SPORT 2
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6828/index.m3u8
-
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV KAKA
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
@@ -637,9 +628,6 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19068/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2145/index.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", |Viju+ Sport
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/160/index.m3u8
-
-
-
 #EXTINF:-1 group-title="🥎 TENNIS", | TA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 group-title="🥎 TENNIS", | BEIN 
@@ -668,7 +656,6 @@ https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playl
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
 #EXTINF:-1 group-title="🥎 TENNIS", | PICKLE TV 
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
-
 #EXTINF:-1 group-title="🔴 COMBAT", Polsat Sport Fight HD PL
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7311/index.m3u8
 #EXTINF:-1 group-title="🔴 COMBAT", ARENA Boxing
@@ -716,8 +703,6 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=198
 http://planettvweb.com:8091/pablotorres/Ferpab8719/12051
 #EXTINF:-1 group-title="🔴 COMBAT", Fight Network
 http://kstv.us:8080/c2Q2HDqQfM/111770/15901
-
-
 #EXTINF:-1 group-title="🔴 BADMINTON vs POOL", AFREECA TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 group-title="🔴 BADMINTON vs POOL", Billiards+ TV
@@ -766,7 +751,6 @@ https://cdn.livega.tv/live/00a2f7fc549fc71336f7e38b3f5082fe/index.m3u8
 https://cdn.livega.tv/live/8eef6cecd0622651b5c666b1dfea552d/index.m3u8
 #EXTINF:-1 group-title="🔴 BADMINTON vs POOL", SABong 6
 https://cdn.livega.tv/live/dc09d2cf9561f03e6ab63583a1724dfc/index.m3u8
-
 #EXTINF:-1 group-title="⚽🏐 TRÀ ĐÁ TV", LÒ A BÉO
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -815,9 +799,6 @@ https://tradatv-s1.b-cdn.net/live/loatay_s1593e96cb.m3u8
 #EXTVLCOPT:http-referrer=https://tradatv.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://tradatv-s1.b-cdn.net/live/loaton_s18655cdd8.m3u8
-
-
-
 #EXTINF:-1 group-title="⚽ 🏐 SAO CHUỐI TV", RICKY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -902,9 +883,6 @@ https://gckc0525.edgemaxcdn.org/live/chuoingao/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://gckc0525.edgemaxcdn.org/live/camry/playlist.m3u8
- 
-
-
 #EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Ô Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live2.zktsva.app/live/432017.flv
@@ -938,7 +916,6 @@ https://live2.zktsva.app/live/307240.flv
 #EXTINF:-1 group-title="🔴 ⚽ GÀ VÀNG 33 SV2" tvg-logo="https://raw.githubusercontent.com/quanlehong539/VTC-Now/refs/heads/main/GaVang33_logo.png", BLV Gà Siêu Son
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live2.zktsva.app/live/306290.flv
-
 #EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV SÚP LƠ
 https://playback.livetl004.com/live/6a9a5525864ea536c2577392.flv
 #EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV CRIS
@@ -975,8 +952,6 @@ https://playback.livetl006.com/live/6a5df755b89dded67b39b8bc.flv
 https://playback.livetl004.com/live/6a439a7fb89dded67b208b87.flv
 #EXTINF:-1 group-title="🔴 ⚽ 🏐 GÀ VÀNG 24h" tvg-logo="https://cdn.gavangtv2026c.com/2026/07/cropped-gavangtv-logo.webp", BLV Titan
 https://playback.livetl006.com/live/69d37c3a4da3e15776b6db56.flv
-
-
 #EXTINF:-1 group-title="⚽ XÔI LẠC TV", 🟢 ROY 1  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -1142,7 +1117,6 @@ https://live2.jorvakstreamcache.com/live/channel32.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live2.jorvakstreamcache.com/live/channel33.flv
-
 #EXTINF:0, 🟢 21:00 25/10 ⚽ Manchester Utd vs Bournemouth (BLV Khô Cay) [hls] 
 #EXTVLCOPT:http-referrer=https://khoga1.live/
 #EXTVLCOPT:network-caching=1000
@@ -1215,8 +1189,6 @@ https://livecdn321.cdnfastter.xyz/live/live_9f71176d0e/index.m3u8?token=3MXeEPMR
 #EXTVLCOPT:http-referrer=https://khoga1.live/
 #EXTVLCOPT:network-caching=1000
 https://livecdn321.cdnfastter.xyz/live/live_09982ecf49/index.m3u8?token=5VclvTpM2E-bfUL2cfww643kT_KZYDbKiUUT4C8ng8o&expires=1852800615
-
-
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", COZY
 https://live05.yefpwmc.app/live/87379114_tsc.m3u8
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", FANTA
@@ -1273,8 +1245,6 @@ https://live05.yefpwmc.app/live/41943555_tsc.m3u8
 https://live05.yefpwmc.app/live/97312754_tsc.m3u8 
 #EXTINF:-1 group-title="⚽ 🏀 COLA TV", RỒNG ĐỎ 
 https://live05.yefpwmc.app/live/88508431_tsc.m3u8 
-
-
 #EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV TAP
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f1516f9d7b1dc247c47b9603d2db8f69&txTime=6aa96d6f
 #EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV ZIDANE
@@ -1397,9 +1367,6 @@ https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1791978368-0-0-50fe
 https://pull.niues.live/live/stream-603255_lhd.m3u8?auth_key=1791978368-0-0-50fe4b0d16a137668585601f603e566f
 #EXTINF:-1 group-title="⚽ SOCOLIVE", SBTV KINH VÂN
 https://pull.niues.live/live/stream-623743_lhd.m3u8?auth_key=1791978434-0-0-9dd958d9f713d7fc8dbfcbb4f9c535ff
-
-
-
 #EXTINF:-1 group-title="🔴⚽ SPORTS ",Sky Sports Tennis HD 50 UK
 #EXTGRP:🔴 SPORTS
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6546/index.m3u8
@@ -2729,8 +2696,6 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30200/index.m3u8
 #EXTINF:-1 group-title="🔴⚽ SPORTS ",Fast Sports 2 HD AM
 #EXTGRP:🔴 SPORTS
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30201/index.m3u8
-
-
 #EXTINF:-1 group-title="🔴NSA | SPORTS HD",BR| ESPN HD BR
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19056/index.m3u8
 #EXTINF:-1 group-title="🔴NSA | SPORTS HD",BR| ESPN 6 HD BR
@@ -2773,8 +2738,6 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6424/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7328/index.m3u8
 #EXTINF:-1 group-title="🔴NSA | SPORTS HD",US | HNL Network HD
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6500/index.m3u8
-
-
 #EXTINF:-1 group-title="🔴EU | SPORTS HD",UK: WORLD POKER TOUR
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
 #EXTINF:-1 group-title="🔴EU | SPORTS HD", AU| REDBULL TV
@@ -3030,8 +2993,6 @@ http://lordstreams.live:80/9857855271/8369553594/661336
 http://lordstreams.live:80/9857855271/8369553594/661333
 #EXTINF:-1 group-title="🔴EU | SPORTS HD", IT| SKY SPORT CALCIO  ᴴᴰ
 http://lordstreams.live:80/9857855271/8369553594/661330
-
-
 #EXTINF:-1 group-title="🔴AS | SPORTS HD", KR: AFREECA TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 group-title="🔴AS | SPORTS HD", BR: Bahrain Sports 1
@@ -3083,9 +3044,6 @@ http://3bb.engatetv.com:25461/hstn/line/21
 http://3bb.engatetv.com:25461/hstn/line/14
 #EXTINF:-1 group-title="🔴AS | SPORTS HD", TL: Thairath TV 32
 http://3bb.engatetv.com:25461/hstn/line/17
-
-
-
 #EXTINF:-1 group-title="📦 MOVIES", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="📦 MOVIES", CCTV6+
@@ -3144,7 +3102,6 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19428/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/16051/index.m3u8
 #EXTINF:-1 group-title="📦 MOVIES", Z!Crime
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/14136/index.m3u8
-
 #EXTINF:-1 group-title="🔴 PHIM CHIẾU RẠP", TÀU BUÔN NGƯỜI
 https://v7.kkphimplayer7.com/20260820/Bg8E38Qv/index.m3u8
 #EXTINF:-1 group-title="🔴 PHIM CHIẾU RẠP", SPIDERMAN: KHỞI ĐẦU MỚI
@@ -3159,8 +3116,6 @@ https://s6.kkphimplayer6.com/20250914/lfw8mcwz/index.m3u8
 https://v7.kkphimplayer7.com/20260827/eLQxtR5y/index.m3u8
 #EXTINF:-1 group-title="🔴 PHIM CHIẾU RẠP", TRẬN CHIẾN CUỐI CÙNG
 https://v7.kkphimplayer7.com/20260510/yBcpn0fw/index.m3u8
-
-
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch541_425_305", CCTV1
 http://74.91.26.218:82/live/cctv1hd.m3u8
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://upload.wikimedia.org/wikipedia/he/2/2f/1920px-CCTV-2_Logo.svg.png", CCTV2
